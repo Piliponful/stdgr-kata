@@ -1,0 +1,25 @@
+{
+  "name": "stdgr-kata",
+  "version": "1.0.0",
+  "description": "Dear reader! This is a chance to show of your coding skills with this kata - a \"fun\" little coding exercise, which is designed to practice your abilities, but we've found that they're a great way for people to demonstrate their programming prowess.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stedger/stdgr-kata.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stedger/stdgr-kata/issues"
+  },
+  "homepage": "https://github.com/Stedger/stdgr-kata#readme",
+  "dependencies": {
+    "jest": "^27.0.4",
+    "lodash": "^4.17.21",
+    "random-words": "^1.1.1"
+  }
+}
